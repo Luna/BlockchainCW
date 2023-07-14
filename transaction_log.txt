@@ -1,0 +1,13 @@
+= TRANSACTIONS =
+
+[TRANSACTION START]
+Transaction Hash: 095cc5c16228fc1d44a69c02cccbabffe0116135a46d46427dbd87e47ab45f00
+Digital Signature: sNYWNgJpGhX5n1FeeKGB3vuNGAtHyPmpgkzf2QbiI+mc96oplYgNbjX+ZAa5lptukdhB7DA4c8QpymQ/wSMRbw==
+Timestamp: 06/03/2023 11:52:04
+Transferred: 7 Assignment Coin
+Fees: 0
+Sender Address: Mine Rewards
+Reciever Address: qN/t2gsN71EZl7Bw9H60bhWkhR1KvF+xcG9+ZKAe2rSLWRk/IlMONiEtunsd3Ju/rZZMn+dyDJY/bZipl5pHSQ==
+  [TRANSACTION END]
+== BLOCK END ==
+
