@@ -1,2 +1,2 @@
 # BlockchainCW
-UoR Blockchain Assignment
+Blockchain Assignment
